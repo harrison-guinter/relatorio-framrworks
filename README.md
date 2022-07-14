@@ -25,3 +25,6 @@ class OrderShipped extends Mailable
 
 
 Os frameworks funcionam como um modelo para a criação de softwares e aplicativos. Eles oferecem uma série de estruturas básicas que facilitam o trabalho do programador. Por oferecerem uma estrutura base para agilizar o desenvolvimento, os frameworks dão a vantagem de não começar o desenvolvimento completamente do zero.
+
+
+https://carbon.now.sh/
