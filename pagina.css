@@ -12,22 +12,79 @@ body{
     min-height: 704px;
 }
 
+.cabecalho{
+    text-align: center;
+}
+
 .titulo{
     text-align: center;
     padding-top: 5vh;
+    font-size: x-large;
+}
+
+.subtitulodireita{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 7vh;
+    text-align: justify;
+}
+
+.subtituloesquerda{
+    display: flex;
+    flex-direction: row;
+    padding-left: 7vh;
+    text-align: justify;
 }
 
 .x{
     max-width: 50%;
-    text
+    text-align:justify ;
+    display: flex;
+    align-items: center;
+    padding-left: 25%;
 }
 
 .paragrafo{
     display: flex;
     flex-direction: row;
+    padding-left: 7vh;
+    text-align: justify;
 
 }
 
 .img{
-    max-width: 40%;
+    max-width: 50%;
+    padding-top: 3vh;
+    padding-left: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+.imgdireita{
+    max-width: 50%;
+    padding-top: 3vh;
+    padding-right: 7vh;
+    display: flex;
+    align-items: center;
+}
+
+.imgesquerda{
+    max-width: 50%;
+    padding-top: 3vh;
+    padding-right: 7vh;
+    display: flex;
+    align-items: center;
+}
+
+.imag{
+    max-width: 15vh;
+    padding: 2vh ;
+}
+
+.espaco{
+    padding-right: 7vh;
+}
+
+.quebra{
+    padding-top: 10vh;
 }
